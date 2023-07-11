@@ -37,6 +37,7 @@ loopme.com, 11556, RESELLER, 6c8d5f95897a5a3b
 mediago.io,045ac24b888bcf59a09731e7f0f2084f,RESELLER
 adyoulike.com,7463c359225e043c111036d7a29affa5,RESELLER
 minutemedia.com,01gya4708ddm,RESELLER
+google.com, pub-9171501752190002, DIRECT, f08c47fec0942fa0
 Contextweb.com, 562963, RESELLER, 89ff185a4c4e857c
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 appnexus.com, 11664, RESELLER, f5ab79cb980f11d1
